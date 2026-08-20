@@ -1,0 +1,6 @@
+{
+  "name": "BusDrive",
+  "description": "Rutas y horarios de buses, boletos, rides y estancias en Nicaragua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
